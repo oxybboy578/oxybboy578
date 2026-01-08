@@ -11,4 +11,8 @@
   🌐 Продумываю и создаю структуру сайтов с помощью <strong>HTML</strong>.<br>
   Постоянно учусь, экспериментирую и превращаю идеи в рабочий код!
 </p>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=3FC0FF&width=700&height=90&lines=%F0%9F%91%8B%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D0%B7%D0%B0+%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%F0%9F%91%8B)](https://git.io/typing-svg)
+
 ![](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)
